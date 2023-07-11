@@ -29,7 +29,7 @@ sudo ./configure --enable-optimizations
 ```
 
 ```bash
-sudo make altinstall`
+sudo make altinstall
 ```
 
 To Verify if Python3.10 is installed successfully, Run the below command
