@@ -1,4 +1,4 @@
-## Demo App
+## Demo App Installation Guide
 
 #### Step 1: Python3 Installation
 
